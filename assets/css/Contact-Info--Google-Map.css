@@ -1,0 +1,28 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a:link {
+  color: #8818ab;
+}
+
+a:visited {
+  color: #8818ab;
+}
+
+a:active {
+  color: #8818ab;
+}
+
+a:hover {
+  color: rgb(64,181,226);
+}
+

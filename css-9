@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Tapestry';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/tapestry/v4/SlGTmQecrosEYXhaGCIjoHQ.ttf) format('truetype');
+}

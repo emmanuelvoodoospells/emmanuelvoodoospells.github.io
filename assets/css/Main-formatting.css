@@ -1,0 +1,70 @@
+body {
+  font-family: 'Libre Franklin', Verdana, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Dancing Script', serif;
+}
+
+h1 {
+  font-size: 44px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  color: #8818ab;
+}
+
+h1.bizname {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 44px;
+}
+
+h3 {
+  font-size: 34px;
+  color: #8818ab;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h5 {
+  font-size: 22px;
+}
+
+h6 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.overpic {
+  text-shadow: 1px 1px 5px #ffffff;
+}
+
+p.overpic {
+  color: white;
+  font-weight: 500;
+  padding-top: 20px;
+}
+
+h1.overpic, h2.overpic, h3.overpic, h4.overpic {
+  color: white;
+}
+
+.btn-xl {
+  text-transform: uppercase;
+  padding: .75rem 2rem;
+  font-size: .5rem;
+  font-weight: 700;
+  letter-spacing: .05rem;
+}
+
+.bg-dark {
+  background-color: #661280!important;
+}
+

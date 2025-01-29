@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Fondamento';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/fondamento/v20/4UaHrEJGsxNmFTPDnkaJ96rp4g.ttf) format('truetype');
+}

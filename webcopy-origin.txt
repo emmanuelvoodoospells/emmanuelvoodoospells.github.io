@@ -1,0 +1,300 @@
+Uri: https://fonts.googleapis.com/css?family=Average+Sans&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Berkshire+Swash&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Dancing+Script&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Fondamento&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Norican&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Tapestry&display=swap
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\css-9
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/averagesans/v16/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCe.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\averagesans\v16\1Ptpg8fLXP2dlAXR-HlJJNJ_AtCe.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/berkshireswash/v20/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\berkshireswash\v20\ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPCbd5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPCbd5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPErd5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPErd5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjc5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjc5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPJ_a5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPJ_a5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPKba5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPKba5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPNHa5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPNHa5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPja5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPja5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPjd5a7dvg.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPjd5a7dvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v25/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\dancingscript\v25\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fondamento/v20/4UaHrEJGsxNmFTPDnkaJ96rp4g.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\fondamento\v20\4UaHrEJGsxNmFTPDnkaJ96rp4g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v14/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkANDM.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\librefranklin\v14\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/norican/v15/MwQ2bhXp1eSBqjkPKJVbsA.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\norican\v15\MwQ2bhXp1eSBqjkPKJVbsA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oleoscriptswashcaps/v13/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAX2kTQ.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\oleoscriptswashcaps\v13\Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAX2kTQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tapestry/v4/SlGTmQecrosEYXhaGCIjoHQ.ttf
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\s\tapestry\v4\SlGTmQecrosEYXhaGCIjoHQ.ttf
+Content Type: font/ttf
+
+Uri: https://oaktonchakracenter.com/
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\index.htm
+Content Type: text/html
+
+Uri: https://oaktonchakracenter.com/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://oaktonchakracenter.com/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\bootstrap\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://oaktonchakracenter.com/assets/css/Contact-Info--Google-Map.css
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\css\Contact-Info--Google-Map.css
+Content Type: text/css
+
+Uri: https://oaktonchakracenter.com/assets/css/Hero-Clean-images.css
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\css\Hero-Clean-images.css
+Content Type: text/css
+
+Uri: https://oaktonchakracenter.com/assets/css/Main-formatting.css
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\css\Main-formatting.css
+Content Type: text/css
+
+Uri: https://oaktonchakracenter.com/assets/css/Projects-Clean.css
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\css\Projects-Clean.css
+Content Type: text/css
+
+Uri: https://oaktonchakracenter.com/assets/fonts/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\fonts\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://oaktonchakracenter.com/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://oaktonchakracenter.com/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://oaktonchakracenter.com/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://oaktonchakracenter.com/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://oaktonchakracenter.com/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://oaktonchakracenter.com/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://oaktonchakracenter.com/assets/img/Amethyst-44478105_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Amethyst-44478105_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Astrology-62138959-444x444.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Astrology-62138959-444x444.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Chakra-Auras-AdobeStock_94446655-450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Chakra-Auras-AdobeStock_94446655-450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Chakra-Oakton-Center-413x500.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Chakra-Oakton-Center-413x500.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Chakra-rainbow-background-171405750_2000x993.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Chakra-rainbow-background-171405750_2000x993.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Crystal-Ball-and-Gemstones-AdobeStock_122171894-444x444.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Crystal-Ball-and-Gemstones-AdobeStock_122171894-444x444.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://oaktonchakracenter.com/assets/img/favicon-180x180.png
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\favicon-180x180.png
+Content Type: image/png
+
+Uri: https://oaktonchakracenter.com/assets/img/favicon-192x192.png
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\favicon-192x192.png
+Content Type: image/png
+
+Uri: https://oaktonchakracenter.com/assets/img/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://oaktonchakracenter.com/assets/img/favicon-512x512.png
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\favicon-512x512.png
+Content Type: image/png
+
+Uri: https://oaktonchakracenter.com/assets/img/Gemstones-Crystals-16327014_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Gemstones-Crystals-16327014_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Life-Coaching-120400975_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Life-Coaching-120400975_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Love-Couple-Sexy-132951928_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Love-Couple-Sexy-132951928_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Meditation-Woman-Floating-188003636_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Meditation-Woman-Floating-188003636_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Palm-Reading-177099522_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Palm-Reading-177099522_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Past-Life-134852649_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Past-Life-134852649_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Photos-AdobeStock_109323175.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Photos-AdobeStock_109323175.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Psychic-Array-113292809_444x444.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Psychic-Array-113292809_444x444.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Reiki-110034256_450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Reiki-110034256_450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/img/Tarot-Cards-White-166987262-450x450.jpg
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\img\Tarot-Cards-White-166987262-450x450.jpg
+Content Type: image/jpeg
+
+Uri: https://oaktonchakracenter.com/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\assets\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://oaktonchakracenter.com/index.html
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\index.html
+Content Type: text/html
+
+Uri: https://oaktonchakracenter.com/psychic.html
+File Name: C:\Downloaded Web Sites\oaktonchakracenter.com\psychic.html
+Content Type: text/html
+

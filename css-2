@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Average Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/averagesans/v16/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCe.ttf) format('truetype');
+}
